@@ -1,5 +1,5 @@
 # 🏥 Al-Amal Hospital Management System
-
+🌐 **Live Demo:** [اضغط هنا لتجربة الموقع أونلاين](https://m0hamedhelal-hospital-management-system-app-icaomp.streamlit.app/)
 A desktop-grade hospital management application built in **Python**, with a **Streamlit** web interface and a persistent **SQLite** database. The project is designed as a clean, layered system that demonstrates solid **Object-Oriented Programming (OOP)** principles combined with a practical **separation-of-concerns architecture**.
 
 ---
